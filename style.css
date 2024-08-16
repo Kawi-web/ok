@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+.one{
+    width:245px;
+    border-radius: 5px;
+    float:right;
+    margin-left: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+.two{border-radius: 5px;
+    width: 450px;
+    float: left;
+    margin-right: 5px;
+}
+.three{
+    border-radius: 5px;
+    width: 800px;
+    float:left;
+    margin-right: 5px;
+}
+.okay{ text-align: center;}
+.four{
+    float:right;
+    border-radius: 5px;
+    width: 500px
+}
+li{
+    font-size: 20px;
+    font-weight: bold;
+}
+footer{
+    font-size: 19px;
+    text-align: center;
+}
+p{
+    font-size: 19px;
+    text-align: center;
+}
